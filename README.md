@@ -1,2 +1,10 @@
-# document-chatbot
-AI-based chatbot that answers questions from PDF documents and web content using Python, NLP keyword extraction, and text parsing.
+## ▶️ How to Run
+
+1. Install dependencies
+pip install -r requirements.txt
+
+2. Run the script
+python document-chatbot.py
+
+3. Upload your PDF file when prompted
+4. Ask questions in terminal
